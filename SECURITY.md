@@ -1,12 +1,12 @@
 # Security
 
-Report a vulnerability in the Obi CLI, its Skill or the Obi service privately, through GitHub: [Report a vulnerability](https://github.com/Heysurface/cli/security/advisories/new). Only the maintainers read it.
+Report a vulnerability in the Obi CLI, its Skill or the Obi service privately, through GitHub: [Report a vulnerability](https://github.com/hireobi/cli/security/advisories/new). Only the maintainers read it.
 
 What to expect: an answer within 3 business days, a fix or a mitigation for a confirmed issue within 30 days, and credit in the release notes if you want it.
 
 ## Scope
 
-In scope: the published CLI package and its Skill ([releases](https://github.com/Heysurface/cli/releases)), the service the CLI connects to, and hireobi.com.
+In scope: the published CLI package and its Skill ([releases](https://github.com/hireobi/cli/releases)), the service the CLI connects to, and hireobi.com.
 
 Out of scope: denial of service, reports from automated scanners without a working proof, and social engineering.
 

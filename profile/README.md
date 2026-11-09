@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://hireobi.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heysurface/.github/main/profile/obi-wordmark-night.svg">
-      <img alt="Obi" src="https://raw.githubusercontent.com/Heysurface/.github/main/profile/obi-wordmark.svg" width="180">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hireobi/.github/main/profile/obi-wordmark-night.svg">
+      <img alt="Obi" src="https://raw.githubusercontent.com/hireobi/.github/main/profile/obi-wordmark.svg" width="180">
     </picture>
   </a>
 </p>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://hireobi.com"><strong>hireobi.com</strong></a> ·
-  <a href="https://github.com/Heysurface/cli">Install Obi</a> ·
+  <a href="https://github.com/hireobi/cli">Install Obi</a> ·
   <a href="https://hireobi.com/pricing">Pricing</a> ·
   <a href="https://hireobi.com/agents.md">For AI agents</a>
 </p>
@@ -69,7 +69,7 @@ Obi sets it up and runs it. **Content Engineering** turns your proprietary data 
 
 ## Where Obi works
 
-Claude Code, Codex, Cursor, Windsurf, GitHub Copilot, Gemini CLI, Cline, Amp, OpenCode or any terminal. One command installs the CLI and the Skill; you review and approve the work in the app. Install guide: [Heysurface/cli](https://github.com/Heysurface/cli).
+Claude Code, Codex, Cursor, Windsurf, GitHub Copilot, Gemini CLI, Cline, Amp, OpenCode or any terminal. One command installs the CLI and the Skill; you review and approve the work in the app. Install guide: [hireobi/cli](https://github.com/hireobi/cli).
 
 Free: 10 questions on ChatGPT and Gemini, one scan a month. Core pack: 25 questions on ChatGPT, Gemini and Google AI Overviews, scanned weekly, $20 a month. Every plan: [hireobi.com/pricing](https://hireobi.com/pricing).
 
