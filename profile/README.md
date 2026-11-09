@@ -67,6 +67,8 @@ Obi sets it up and runs it. **Content Engineering** turns your proprietary data 
 - **It remembers.** What you tell Obi to remember holds across agents and sessions: a preference, a rule, a decision.
 - **You approve every page.** Every page Obi writes is a draft until you approve it. Obi publishes nothing on its own.
 
+What Obi reads, writes and sends: [hireobi.com/security](https://hireobi.com/security).
+
 ## Where Obi works
 
 Claude Code, Codex, Cursor, Windsurf, GitHub Copilot, Gemini CLI, Cline, Amp, OpenCode or any terminal. One command installs the CLI and the Skill; you review and approve the work in the app. Install guide: [hireobi/cli](https://github.com/hireobi/cli).
